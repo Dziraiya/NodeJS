@@ -1,0 +1,31 @@
+{
+  "name": "gb_nodejs",
+  "version": "1.0.0",
+  "description": "node js gb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexeyTurdakov/GB_nodeJS.git"
+  },
+  "keywords": [
+    "node",
+    "js"
+  ],
+  "type": "module",
+  "author": "alexey turdakov <alexeyturdakov@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexeyTurdakov/GB_nodeJS/issues"
+  },
+  "homepage": "https://github.com/AlexeyTurdakov/GB_nodeJS#readme",
+  "dependencies": {
+    "colors": "^1.4.0"
+  },
+  "devDependencies": {
+    "@types/node": "^18.11.9"
+  }
+}
